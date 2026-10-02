@@ -1,0 +1,1 @@
+import{j as t}from"./index-DixaLecU.js";function r({value:i,alt:e=""}){return i.startsWith("img:")?t.jsx("img",{src:`/ShamzLearningApp-site/${i.slice(4)}`,alt:e,className:"inline-block h-[1em] w-[1em] align-[-0.15em] object-contain"}):t.jsx(t.Fragment,{children:i})}export{r as P};

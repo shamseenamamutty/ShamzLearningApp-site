@@ -1,1 +1,0 @@
-import{f as o,j as e}from"./index-nVcPRFKk.js";function x({courseId:t,className:r="",children:n,...a}){var s;const i=((s=o[t])==null?void 0:s.direction)??"ltr";return e.jsx("span",{lang:t,dir:i,className:`${t} ${r}`,...a,children:n})}export{x as S};
