@@ -1,1 +1,0 @@
-import{n as o,j as e}from"./index-CbwJBO4q.js";function x({courseId:t,className:n="",children:r,...a}){var s;const i=((s=o[t])==null?void 0:s.direction)??"ltr";return e.jsx("span",{lang:t,dir:i,className:`${t} ${n}`,...a,children:r})}export{x as S};
