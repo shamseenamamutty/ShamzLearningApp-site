@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- लट्टू (lattu): a traditional wooden spinning top - no matching Unicode emoji exists (🪀 is a
+       yo-yo, a different toy), so this is a bundled image like public/pictures/pomegranate.png. -->
+  <rect x="44" y="8" width="12" height="10" rx="2" fill="#8d5524"/>
+  <path d="M 20 22 Q 20 16 30 16 L 70 16 Q 80 16 80 22 L 78 46 Q 50 58 22 46 Z" fill="#f4511e"/>
+  <path d="M 22 46 Q 50 58 78 46 L 74 60 Q 50 68 26 60 Z" fill="#fdd835"/>
+  <path d="M 26 60 Q 50 68 74 60 L 64 76 Q 50 80 36 76 Z" fill="#43a047"/>
+  <path d="M 36 76 L 50 94 L 64 76 Q 50 80 36 76 Z" fill="#9e9e9e"/>
+  <ellipse cx="50" cy="17" rx="8" ry="3" fill="#6d4c1f"/>
+</svg>
