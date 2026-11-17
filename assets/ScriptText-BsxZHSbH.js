@@ -1,0 +1,1 @@
+import{p as o,j as c}from"./index-ClJrro7l.js";function x({courseId:s,glyph:a=!1,className:r="",children:n,...i}){var t;const p=((t=o[s])==null?void 0:t.direction)??"ltr",l=a&&s==="ar"?"ar-glyph":s;return c.jsx("span",{lang:s,dir:p,className:`${l} ${r}`,...i,children:n})}export{x as S};
